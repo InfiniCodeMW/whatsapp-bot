@@ -1,0 +1,22 @@
+# AWS Configuration
+AWS_REGION=us-east-1
+AWS_ACCESS_KEY_ID=your_access_key
+AWS_SECRET_ACCESS_KEY=your_secret_key
+
+# WhatsApp Configuration
+WHATSAPP_ACCESS_TOKEN=your_whatsapp_token
+WHATSAPP_PHONE_NUMBER_ID=your_phone_number_id
+WHATSAPP_WEBHOOK_SECRET=your_webhook_secret
+
+# Payment Providers
+AIRTEL_CLIENT_ID=your_airtel_client_id
+AIRTEL_CLIENT_SECRET=your_airtel_secret
+AIRTEL_API_URL=https://api.airtel.com/money
+
+TNM_API_KEY=your_tnm_api_key
+TNM_API_SECRET=your_tnm_secret
+TNM_API_URL=https://api.tnm.com/mpamba
+
+# Application Settings
+DEBUG=False
+TESTING=False
